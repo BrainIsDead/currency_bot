@@ -10,7 +10,7 @@ pytelegrambotapi = "*"
 pylint = "*"
 pygooglechart = "*"
 jsonfield = "*"
-django = "==2.2.8"
+django = "==2.2.18"
 
 [requires]
 python_version = "3.7"
